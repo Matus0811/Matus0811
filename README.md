@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello there 👋
 
-<!--
-**Matus0811/Matus0811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Kamil**, a Computer Science student currently focusing on **C# and .NET backend development**.
 
-Here are some ideas to get you started:
+This GitHub profile documents my **projects, experiments, and learning journey** as I work toward becoming a **Junior Backend Developer**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧪 Projects
+
+| Project | Description | Technologies | Status |
+|--------|------------|--------------|--------|
+| 🌲 [Forest Fire Simulation](https://github.com/Matus0811/forest-fire-simulation) | Cellular automaton simulation of forest fire spread featuring probabilistic propagation, water barriers, spontaneous ignition, vegetation regrowth, wind effects, and animated visualization. Developed for a university Computer Simulations course. | Python, NumPy, Matplotlib | ✅ Completed |
+
+---
+
+## 📚 Currently learning
+
+- C#  
+- .NET backend development  
+- REST API fundamentals  
+
+---
+
+Feel free to explore the repositories and follow my progress 🚀
